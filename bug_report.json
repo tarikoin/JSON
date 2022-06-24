@@ -4,7 +4,7 @@
   "Environment": "Google Chrome Версия 100.0.4896.127 (Официальная сборка), (64 бит)",
   "Priority": "Medium",
   "Reported By":	"Anna",
-  "Reported On":	2022.06.18,
+  "Reported On":	2022-06-18,
   "Type":	"Bug",
   "Status":	"New",
   "Description":	"Поле количества единиц товара в корзине допускает ввод нечисловых значений и оформление заказа с этими значениями",
