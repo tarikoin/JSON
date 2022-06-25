@@ -1,18 +1,60 @@
 {
-    "skill": [
-        "1. Base Theory",
-        "2. Client Server Architecture",
-        "3. HTTP",
-        "4. JSON, XML",
-        "5. API, Postman",
-        "6. Charles, Fidler",
-        "7. Dev Tools",
-        "8. VPN",
-        "9. Mobile Testing",
-        "10. bash, terminal",
-        "11. SQL",
-        "12. Redis",
-        "13. JMeter",
-        "14. Scrum"
-    ]
+  "skill": [
+    {
+      "order": 1,
+      "description": "Base Theory"
+    },
+    {
+      "order": 2,
+      "description": "Client Server Architecture"
+    },
+    {
+      "order": 3,
+      "description": "HTTP"
+    },
+    {
+      "order": 4,
+      "description": "JSON, XML"
+    },
+    {
+      "order": 5,
+      "description": "API, Postman"
+    },
+    {
+      "order": 6,
+      "description": "Charles, Fidler"
+    },
+    {
+      "order": 7,
+      "description": "Dev Tools"
+    },
+    {
+      "order": 8,
+      "description": "VPN"
+    },
+    {
+      "order": 9,
+      "description": "Mobile Testing"
+    },
+    {
+      "order": 10,
+      "description": "bash, terminal"
+    },
+    {
+      "order": 11,
+      "description": "SQL"
+    },
+    {
+      "order": 12,
+      "description": "Redis"
+    },
+    {
+      "order": 13,
+      "description": "JMeter"
+    },
+    {
+      "order": 14,
+      "description": "Scrum"
+    }
+  ]
 }
